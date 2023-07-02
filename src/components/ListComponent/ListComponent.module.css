@@ -1,0 +1,18 @@
+.contactList {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.btnContactList:last-child {
+  margin-bottom: 0;
+}
+.btnContactList {
+  margin-left: 8px;
+  border-radius: 4px;
+  background-color: bisque;
+}
+.loader {
+  width: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
